@@ -13,3 +13,12 @@ permalink: /education/
 {% if e.points %}<ul>{% for p in e.points %}<li>{{ p }}</li>{% endfor %}</ul>{% endif %}
 </div>
 {% endfor %}
+
+## Certifications
+
+{% for c in site.data.certifications %}
+<div class="entry">
+<h3>{{ c.title }}</h3>
+<p class="meta">{{ c.issuer }} · {{ c.date }}</p>
+</div>
+{% endfor %}
