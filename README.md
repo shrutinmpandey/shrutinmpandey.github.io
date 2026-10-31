@@ -28,8 +28,8 @@ If a config change doesn't show up, run `bundle exec jekyll clean` first.
 
 | What | File |
 | --- | --- |
-| Name, email, LinkedIn and resume links | `_config.yml` |
-| Home page intro and highlights | `index.md` |
+| Name, tagline, email, LinkedIn and resume links | `_config.yml` |
+| Home page intro | `index.md` |
 | Jobs and internships | `_data/experience.yml` |
 | Education | `_data/education.yml` |
 | Awards | `_data/awards.yml` |

@@ -1,11 +1,13 @@
+# Personal details and links: edit here, they are used across the whole site.
 title: Shruti Pandey
 description: Shruti Pandey - Management Trainee at Landmark Group. MBA (SCMHRD Pune), B.Tech Chemical Engineering (VIT Vellore).
 url: "https://shrutinmpandey.github.io"
 
 author: Shruti Pandey
+tagline: "Management Trainee at Landmark Group · Dubai, UAE"
 email: shrutinmpandey@gmail.com
 linkedin_url: "https://www.linkedin.com/in/shruti-m-pandey/"
-resume_url: "https://docs.google.com/document/d/1g6GYshuSuh44sS0xzZNfyQE62bK_3dgl/edit"
+resume_url: "https://drive.google.com/file/d/1g6GYshuSuh44sS0xzZNfyQE62bK_3dgl/view?usp=sharing"
 
 markdown: kramdown
 permalink: pretty

@@ -4,8 +4,8 @@ title: Home
 description: Shruti Pandey - Management Trainee at Landmark Group, Dubai. MBA (SCMHRD Pune), B.Tech Chemical Engineering (VIT Vellore).
 ---
 
-# Shruti Pandey
-<p class="tagline">Management Trainee at Landmark Group · Dubai, UAE</p>
+# {{ site.author }}
+<p class="tagline">{{ site.tagline }}</p>
 
 <ul class="logo-strip">
 {% for l in site.data.logos %}<li>{{ l }}</li>{% endfor %}
